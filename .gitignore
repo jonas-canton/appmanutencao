@@ -1,0 +1,5 @@
+src/Win32/
+src/__history/
+src/Servidor/
+*.local
+*.log
